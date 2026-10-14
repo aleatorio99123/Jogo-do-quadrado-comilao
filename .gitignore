@@ -1,0 +1,14 @@
+# Pastas temporárias criadas pelo PyInstaller ao gerar o .exe
+build/
+dist/
+
+# Arquivos de configuração e executáveis locais
+*.spec
+*.exe
+
+# Arquivo de IA do MediaPipe (caso use de novo no futuro para não pesar o GitHub)
+*.task
+
+# Arquivos temporários do próprio Python
+__pycache__/
+*.pyc
